@@ -2,6 +2,15 @@
 
 ## WorldWideWeb Browser
 
+![Portada](https://github.com/DavidHonoratoFernandez/SMX2-M8UF1A1-HistoriaWeb-1990-WorldWideWebBrowser-DavidHonorato/blob/main/PortadaWWW.jpg "Portada")
+
+## Indice
+```
+1. ¿Qué es WorldWideWeb?
+2. ¿Cual es el origen de WorldWideWeb?
+3. ¿Quienes trabajaron junto a Tim?
+```
+
 ### ¿Qué es WorldWideWeb?
 World Wide Web es el primer navegador web y editor de paginas web creado en la historia.
 Más tarde, fue renombrado como “Nexus” para evitar confusiones entre el software y el.
