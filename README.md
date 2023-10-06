@@ -7,6 +7,8 @@ World Wide Web es el primer navegador web y editor de paginas web creado en la h
 Más tarde, fue renombrado como “Nexus” para evitar confusiones entre el software y el.
 Su código fuente fue publicado el 30 de abril de 1993. Una parte de dicho código sigue en el ordenador NeXT, en el museo CERN, no se ha restaurado porque es considerado como un objeto histórico.
 
+![WorldWideWeb](https://github.com/DavidHonoratoFernandez/SMX2-M8UF1A1-HistoriaWeb-1990-WorldWideWebBrowser-DavidHonorato/blob/main/WorldWideWeb.jpg "WorldWideWeb")
+
 ### ¿Cual es el origen de WorldWideWeb?
 Su origen sucedió el 25 de diciembre de 1990, por el ingeniero y físico britanico, Tim Berners-Lee, el cual desarrolló World Wide Web en el ordenador NeXT, el cual por esas fechas no era mal ordenador.
 Se creó en CERN, el cual es un Centro Europeo de Física Nuclear, situado en Ginebra (Suiza). 
